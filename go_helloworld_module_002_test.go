@@ -7,7 +7,7 @@ import (
 
 func TestHello(t *testing.T) {
 	result := Hello002()
-	expected := "Hello, world!"
+	expected := "Hello, world!v0.0.2"
 	if result != expected {
 		t.Errorf("result %q expected %q", result, expected)
 	}

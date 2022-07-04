@@ -2,5 +2,5 @@
 package showme
 
 func Hello002() string {
-	return "Hello, world!"
+	return "Hello, world!v0.0.2"
 }
